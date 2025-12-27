@@ -1,7 +1,7 @@
 
 
 
-# Predict-Stock-Price-With-Linear-Regression
+# Predict Stock Price
 
 #### This is a Stock Market Prediction using Machine Learning and Linear Regression Model. You can choose whatever CSV Stock File to predict as long they have dates and your target prediction. I recommend downloading historical stock price data at [Yahoo Finance](finance.yahoo.com). Below is a presentation about the whole process of coding this project.
 
